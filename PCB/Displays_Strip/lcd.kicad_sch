@@ -3162,7 +3162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 129.54 93.98 0)
 			(effects
 				(font
@@ -3264,7 +3264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 53.34 129.54 0)
 			(effects
 				(font
@@ -3366,7 +3366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 129.54 129.54 0)
 			(effects
 				(font
@@ -3468,7 +3468,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 53.34 93.98 0)
 			(effects
 				(font
@@ -4185,7 +4185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 129.54 58.42 0)
 			(effects
 				(font
@@ -4482,7 +4482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 129.54 165.1 0)
 			(effects
 				(font
@@ -4715,7 +4715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 53.34 58.42 0)
 			(effects
 				(font
@@ -5345,7 +5345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 129.54 22.86 0)
 			(effects
 				(font
@@ -6016,7 +6016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 53.34 165.1 0)
 			(effects
 				(font
@@ -6118,7 +6118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Console:Hirose FFC FPC 13 Pin Inverted"
 			(at 53.34 22.86 0)
 			(effects
 				(font
