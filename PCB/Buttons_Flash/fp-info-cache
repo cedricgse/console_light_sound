@@ -1,4 +1,4 @@
-23702192138778832
+23703918681358950
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52240,6 +52240,13 @@ Digitast
 0
 6
 5
+Console
+Hirose FFC FPC 13 Pin Inverted
+
+
+0
+15
+14
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf

@@ -4255,7 +4255,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 55.88 57.15 0)
 		(unit 1)
@@ -4404,7 +4403,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 195.58 57.15 0)
 		(unit 1)
@@ -4992,7 +4990,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 167.64 82.55 0)
 		(unit 1)
@@ -5161,7 +5158,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 195.58 82.55 0)
 		(unit 1)
@@ -5464,7 +5460,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 251.46 57.15 0)
 		(unit 1)
@@ -5876,7 +5871,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 251.46 82.55 0)
 		(unit 1)
@@ -6314,7 +6308,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 223.52 57.15 0)
 		(unit 1)
@@ -6395,7 +6388,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 111.76 82.55 0)
 		(unit 1)
@@ -6476,7 +6468,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 55.88 82.55 0)
 		(unit 1)
@@ -6624,7 +6615,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 83.82 82.55 0)
 		(unit 1)
@@ -6773,7 +6763,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 55.88 107.95 0)
 		(unit 1)
@@ -6921,7 +6910,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 167.64 57.15 0)
 		(unit 1)
@@ -7002,7 +6990,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 83.82 57.15 0)
 		(unit 1)
@@ -7372,7 +7359,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 111.76 107.95 0)
 		(unit 1)
@@ -7541,7 +7527,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 139.7 107.95 0)
 		(unit 1)
@@ -7622,7 +7607,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 223.52 82.55 0)
 		(unit 1)
@@ -7791,7 +7775,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 111.76 57.15 0)
 		(unit 1)
@@ -7960,7 +7943,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 83.82 107.95 0)
 		(unit 1)
@@ -8129,7 +8111,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 139.7 57.15 0)
 		(unit 1)
@@ -8588,7 +8569,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Console:Digitast")
 		(lib_id "Console:Digitast")
 		(at 139.7 82.55 0)
 		(unit 1)
