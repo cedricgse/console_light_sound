@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "19832ffe-93ee-47b9-941d-487838a40bd9")
 	(paper "A4")
+	(title_block
+		(title "Flash Buttons Digitast")
+		(date "2024-09-19")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "74xx:74HC165"
 			(exclude_from_sim no)
