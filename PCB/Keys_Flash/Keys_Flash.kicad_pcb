@@ -178,7 +178,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D12"
-			(at -3.5 0 360)
+			(at -3.5 0 0)
 			(layer "F.SilkS")
 			(uuid "b318d52b-e878-415e-88c1-502f52654fe6")
 			(effects
@@ -189,7 +189,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "ea7737b4-4f1c-4cb7-8a33-1187976c56e0")
 			(effects
@@ -390,7 +390,7 @@
 			(uuid "e2a4f880-3fa0-40bd-85bd-85eb422240a6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "ed6c9dd6-f8d7-453a-a496-304c8efcf07a")
 			(effects
@@ -1188,7 +1188,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D13"
-			(at -3.5625 0 360)
+			(at -3.5625 0 0)
 			(layer "F.SilkS")
 			(uuid "1f22fc4c-3b18-43a2-8f14-2bf250856e35")
 			(effects
@@ -1199,7 +1199,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "c6e370f9-e7ed-4e2b-bf51-420eaa770190")
 			(effects
@@ -1400,7 +1400,7 @@
 			(uuid "9d80e364-c119-40c8-a060-ec24d3a31de8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "ef3a019a-9d2c-4377-985d-36ef9b00ce2b")
 			(effects
@@ -3359,7 +3359,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D10"
-			(at -3.5 0 360)
+			(at -3.5 0 0)
 			(layer "F.SilkS")
 			(uuid "83f6e1ec-cd17-4093-a882-c93240a585af")
 			(effects
@@ -3370,7 +3370,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "efadc5a7-93ad-4842-a4ec-e051b77f1c8e")
 			(effects
@@ -3571,7 +3571,7 @@
 			(uuid "791cddf8-6146-48b9-8557-c1caa705d294")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "5a1b07d0-b356-4658-8694-b86fb173eedf")
 			(effects
@@ -4824,7 +4824,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D2"
-			(at -3 0 360)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "c5e88b28-63f4-4394-8271-c35dcb721caa")
 			(effects
@@ -4835,7 +4835,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "9df7ad23-aa4d-47bb-9ab0-e2b8dd64908e")
 			(effects
@@ -5036,7 +5036,7 @@
 			(uuid "91e99d8f-d2cd-44bb-bd84-b47fc882b289")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e927f77d-366d-42ba-9a9b-204d041403ae")
 			(effects
@@ -5412,7 +5412,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D7"
-			(at -3 0 360)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "1b05e753-4d71-4043-bd1f-a99f9ccb4bfc")
 			(effects
@@ -5423,7 +5423,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "f3bc0cbf-c76b-486d-82bd-79d4741e09da")
 			(effects
@@ -5624,7 +5624,7 @@
 			(uuid "67ae6336-2bbe-4390-910a-10311940c22e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "43d7b656-2a52-4120-aefd-614f2fefad9f")
 			(effects
@@ -5884,7 +5884,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D16"
-			(at -3.5625 0 360)
+			(at -3.5625 0 0)
 			(layer "F.SilkS")
 			(uuid "42aae3aa-2494-4dc7-8e9e-3df65735d1f3")
 			(effects
@@ -5895,7 +5895,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "e70ac887-b996-44f2-8cb2-d788f9c6a751")
 			(effects
@@ -6096,7 +6096,7 @@
 			(uuid "b9b06335-d3ed-475c-85d4-8ef13d9cee1e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "9eab4af3-ccd7-45f2-adae-71a3ea1f1767")
 			(effects
@@ -7841,7 +7841,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D18"
-			(at -3.5625 0 360)
+			(at -3.5625 0 0)
 			(layer "F.SilkS")
 			(uuid "a7e74b78-b0d2-4efc-bce0-c0e7139a68b7")
 			(effects
@@ -7852,7 +7852,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "ae4fe6e0-157a-435b-9f0e-2b92f48ebdeb")
 			(effects
@@ -8053,7 +8053,7 @@
 			(uuid "e194382a-860c-4293-9730-681ddaa05bce")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8bcbbb64-f817-48cc-8458-107625126412")
 			(effects
@@ -8710,7 +8710,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D9"
-			(at -3 0 360)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "7a402f47-cd15-4a94-bffc-7f56d8e75d8d")
 			(effects
@@ -8721,7 +8721,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "7fb812f0-9610-4adc-bb65-d10365b5498d")
 			(effects
@@ -8922,7 +8922,7 @@
 			(uuid "a955496f-c2cb-4269-8352-7c1dbf676687")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4eb74e5a-4766-4a21-bfe4-e92ccef1dd07")
 			(effects
@@ -10359,7 +10359,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D17"
-			(at -4.5 0 360)
+			(at -4.5 0 0)
 			(layer "F.SilkS")
 			(uuid "f549bfcf-3133-456b-a65d-b46ddcea54d5")
 			(effects
@@ -10370,7 +10370,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "820a66dd-7db5-4194-8cae-54d996c2eff2")
 			(effects
@@ -10571,7 +10571,7 @@
 			(uuid "b28e4d5e-525e-4fe3-b509-f381c3d74efd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4db6b63d-e7a3-447c-a8d4-058865210851")
 			(effects
@@ -10620,7 +10620,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D4"
-			(at -3.0625 0 360)
+			(at -3.0625 0 0)
 			(layer "F.SilkS")
 			(uuid "80bcc8e5-4411-494c-bc19-4e06ddc0f776")
 			(effects
@@ -10631,7 +10631,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "2f879028-b3e5-4863-9542-fb0730bdca66")
 			(effects
@@ -10832,7 +10832,7 @@
 			(uuid "473fdc67-9f4c-41a6-80b4-8ac1487e7f14")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e1824ec9-13f0-4858-af92-ba8247f9e3b2")
 			(effects
@@ -12242,7 +12242,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D11"
-			(at -3.5 0 360)
+			(at -3.5 0 0)
 			(layer "F.SilkS")
 			(uuid "1458b1f4-a2c5-4f82-904a-0a9a20a24f3d")
 			(effects
@@ -12253,7 +12253,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "c1333f99-f2f1-4332-ae44-91e7b88ff6cc")
 			(effects
@@ -12454,7 +12454,7 @@
 			(uuid "e5415cd6-c565-480b-b066-2091236ba04f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "5e367329-1ccc-479a-9177-25840fdacb32")
 			(effects
@@ -14172,7 +14172,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D14"
-			(at -3.5625 0 360)
+			(at -3.5625 0 0)
 			(layer "F.SilkS")
 			(uuid "ea8823cf-a045-4ea6-8109-4da7f02a1f99")
 			(effects
@@ -14183,7 +14183,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "36e3d89e-deb0-4956-bae9-212c04db0d89")
 			(effects
@@ -14384,7 +14384,7 @@
 			(uuid "ff546745-2bb9-462e-a119-c4b2a877c210")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "2fe407f5-bc79-4dd0-bf81-0f1d340e6409")
 			(effects
@@ -15072,7 +15072,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D20"
-			(at -3.62 0 360)
+			(at -3.62 0 0)
 			(layer "F.SilkS")
 			(uuid "b3654a88-b427-44a3-b8a5-43b816552f79")
 			(effects
@@ -15083,7 +15083,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "2705d2a5-857a-45b8-acb4-e68d0bac7c33")
 			(effects
@@ -15284,7 +15284,7 @@
 			(uuid "f53acd2d-b407-4a7b-8704-72fd831855c9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8068ffdb-52d3-4367-85c3-0a136201aebc")
 			(effects
@@ -15757,7 +15757,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D1"
-			(at -3 0 360)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "60dd99e0-58ba-4fbd-b10a-f9f98fb9f82f")
 			(effects
@@ -15768,7 +15768,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "d0050c6b-5a91-402e-8e14-0fe5f35b8a8c")
 			(effects
@@ -15969,7 +15969,7 @@
 			(uuid "0a7db9d2-a9a5-4c39-9d6d-1dba99460aa3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "de19a664-bb7d-43b2-a5ca-fea2fa9863f9")
 			(effects
@@ -16329,7 +16329,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D6"
-			(at -3 0 360)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "1eaf2e87-98be-4c64-b615-6a81d2ab6532")
 			(effects
@@ -16340,7 +16340,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "e2c4df40-d07c-42b5-8318-ef7aeae73b32")
 			(effects
@@ -16541,7 +16541,7 @@
 			(uuid "4259d43c-189e-4580-a790-a6511263d3d9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "74263c94-945c-48de-8546-fab1fc1e317a")
 			(effects
@@ -17653,7 +17653,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D19"
-			(at -3.5 0 360)
+			(at -3.5 0 0)
 			(layer "F.SilkS")
 			(uuid "a8613e31-12c9-4c4c-b2f5-7a0a44c38d5b")
 			(effects
@@ -17664,7 +17664,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "ba3367b9-9e23-423f-805a-dd50ea0b727d")
 			(effects
@@ -17865,7 +17865,7 @@
 			(uuid "eef95c00-6fe3-4a9a-9c2c-6556b498a13a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "21c73bbe-d7f6-4025-9c6e-740ad9677c25")
 			(effects
@@ -18125,7 +18125,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D3"
-			(at -3 0 360)
+			(at -3 0 0)
 			(layer "F.SilkS")
 			(uuid "3e769791-d493-4224-b4a8-32f45fb1a938")
 			(effects
@@ -18136,7 +18136,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "dfe7c35f-da7d-4372-a7ce-8e7392c2241d")
 			(effects
@@ -18337,7 +18337,7 @@
 			(uuid "77280dc5-1cd9-4ab3-b5a8-ac415816a75d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "39bd754a-09d9-49f0-b09b-4f473eeac85e")
 			(effects
@@ -18386,7 +18386,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D15"
-			(at -3.5625 0 360)
+			(at -3.5625 0 0)
 			(layer "F.SilkS")
 			(uuid "51865b18-82e2-4a6d-99b2-fe1a0912a0de")
 			(effects
@@ -18397,7 +18397,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "aba78dfe-365b-4078-9fd7-267fe3b4b925")
 			(effects
@@ -18598,7 +18598,7 @@
 			(uuid "1a185306-298a-4a18-aa6e-b1a8a71bafc8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "ce7ca888-b115-437e-bc9f-8cf0a75f3378")
 			(effects
@@ -18860,7 +18860,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D5"
-			(at -3.0625 0 360)
+			(at -3.0625 0 0)
 			(layer "F.SilkS")
 			(uuid "7af35dae-7d87-4d28-9d99-965365e591f5")
 			(effects
@@ -18871,7 +18871,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "7b03065d-1e92-43a4-967d-bcb76e4bcfb2")
 			(effects
@@ -19072,7 +19072,7 @@
 			(uuid "19c6af09-003a-407e-ad24-3ef6b1059d6b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8b950031-6f7b-4ae6-95aa-0cc9d58416b4")
 			(effects
@@ -19334,7 +19334,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D8"
-			(at -3.0625 0 360)
+			(at -3.0625 0 0)
 			(layer "F.SilkS")
 			(uuid "e0bab1c7-e223-45c0-aa9b-75b5a30d8be1")
 			(effects
@@ -19345,7 +19345,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "0d11bb2d-093f-494a-b64f-31cdc8cd8221")
 			(effects
@@ -19546,7 +19546,7 @@
 			(uuid "8a92efc8-fa7b-407a-9ef1-ab831992cb9e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b0e090fd-a321-466a-92f4-065ebda4ec33")
 			(effects
@@ -20491,6 +20491,15 @@
 		(uuid "060ed094-ce0e-4c1f-9f8a-1b574228786b")
 	)
 	(via
+		(at 120 102)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "0d81f3e1-7985-46d3-98ff-24d4a1cf6cf5")
+	)
+	(via
 		(at 244.5 118)
 		(size 0.6)
 		(drill 0.3)
@@ -20616,6 +20625,15 @@
 		(uuid "2dfce8a7-7b4e-41b2-bcff-c28431b4a1a0")
 	)
 	(via
+		(at 169 102)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "2eef7f53-dfe7-46fb-b96d-997dcfa9cb7a")
+	)
+	(via
 		(at 66.5 113.5)
 		(size 0.6)
 		(drill 0.3)
@@ -20714,6 +20732,15 @@
 		(uuid "46989eab-ef9e-4a31-8f4e-761773701587")
 	)
 	(via
+		(at 69.5 101.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "47583c90-38a6-4c5c-90dc-567551fd2460")
+	)
+	(via
 		(at 126.5 84)
 		(size 0.6)
 		(drill 0.3)
@@ -20764,6 +20791,15 @@
 		(free yes)
 		(net 2)
 		(uuid "561112cf-2f84-4dd2-a57e-71a0086c6197")
+	)
+	(via
+		(at 45 101.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "573bd60c-138c-4cff-a23c-0b50cd7fab31")
 	)
 	(via
 		(at 194 126.5)
@@ -20898,6 +20934,15 @@
 		(uuid "7e3fa519-333e-4cd8-a9aa-4735e1eeda2c")
 	)
 	(via
+		(at 194 101.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "7f31048a-f5a6-43e5-a68b-9f5502308e48")
+	)
+	(via
 		(at 226.5 99)
 		(size 0.6)
 		(drill 0.3)
@@ -21022,6 +21067,15 @@
 		(uuid "a14f247c-b22d-416c-a1ee-5471b94dbf29")
 	)
 	(via
+		(at 217 102)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "a68eef8d-7e17-4776-b377-569d8319a6e0")
+	)
+	(via
 		(at 169.5 148.5)
 		(size 0.6)
 		(drill 0.3)
@@ -21101,6 +21155,15 @@
 		(uuid "bc88d66c-1a5e-4b81-8ae5-812d882b6143")
 	)
 	(via
+		(at 216.5 129)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "bf3e2127-e4df-4abc-b0c9-8d9044935517")
+	)
+	(via
 		(at 127.5 92.5)
 		(size 0.6)
 		(drill 0.3)
@@ -21162,6 +21225,15 @@
 		(free yes)
 		(net 2)
 		(uuid "e062d3ac-257f-459d-90dc-85f2fad6fc49")
+	)
+	(via
+		(at 144 102)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "e0f5ae16-1e8d-4b55-b93e-b09f3bd7e292")
 	)
 	(via
 		(at 249.5 146)
@@ -21269,6 +21341,15 @@
 		(free yes)
 		(net 2)
 		(uuid "f6f37cef-26d7-4fbb-993d-4b02ed67d601")
+	)
+	(via
+		(at 94 101.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "f7256d9e-cc28-40ab-b1f5-951b27e73beb")
 	)
 	(via
 		(at 261 146.5)
@@ -27738,17 +27819,17 @@
 				(xy 250.980128 101.077552) (xy 250.926597 101.242302) (xy 250.8995 101.413389) (xy 241.6505 101.413389)
 				(xy 241.6505 99.488732) (xy 241.670185 99.421693) (xy 241.722989 99.375938) (xy 241.735495 99.371026)
 				(xy 241.769334 99.359814) (xy 241.918656 99.267712) (xy 242.042712 99.143656) (xy 242.052034 99.128543)
-				(xy 242.05613 99.121903) (xy 242.108078 99.075178) (xy 242.161668 99.063) (xy 246.838332 99.063)
-				(xy 246.905371 99.082685) (xy 246.94387 99.121903) (xy 246.957285 99.143652) (xy 246.957288 99.143656)
-				(xy 247.081344 99.267712) (xy 247.230666 99.359814) (xy 247.397203 99.414999) (xy 247.499991 99.4255)
-				(xy 248.500008 99.425499) (xy 248.500016 99.425498) (xy 248.500019 99.425498) (xy 248.556302 99.419748)
-				(xy 248.602797 99.414999) (xy 248.769334 99.359814) (xy 248.918656 99.267712) (xy 249.042712 99.143656)
-				(xy 249.134814 98.994334) (xy 249.189999 98.827797) (xy 249.2005 98.725009) (xy 249.200499 98.099992)
-				(xy 249.194179 98.038127) (xy 249.189999 97.997203) (xy 249.189998 97.9972) (xy 249.164416 97.92)
-				(xy 249.134814 97.830666) (xy 249.042712 97.681344) (xy 248.949049 97.587681) (xy 248.915564 97.526358)
-				(xy 248.920548 97.456666) (xy 248.949049 97.412319) (xy 248.992202 97.369166) (xy 249.042712 97.318656)
-				(xy 249.048337 97.309534) (xy 249.05613 97.296903) (xy 249.108078 97.250178) (xy 249.161668 97.238)
-				(xy 250.766692 97.238)
+				(xy 242.05613 99.121903) (xy 242.108078 99.075178) (xy 242.161668 99.063) (xy 243.831567 99.063)
+				(xy 246.838332 99.063) (xy 246.905371 99.082685) (xy 246.94387 99.121903) (xy 246.957285 99.143652)
+				(xy 246.957288 99.143656) (xy 247.081344 99.267712) (xy 247.230666 99.359814) (xy 247.397203 99.414999)
+				(xy 247.499991 99.4255) (xy 248.500008 99.425499) (xy 248.500016 99.425498) (xy 248.500019 99.425498)
+				(xy 248.556302 99.419748) (xy 248.602797 99.414999) (xy 248.769334 99.359814) (xy 248.918656 99.267712)
+				(xy 249.042712 99.143656) (xy 249.134814 98.994334) (xy 249.189999 98.827797) (xy 249.2005 98.725009)
+				(xy 249.200499 98.099992) (xy 249.194179 98.038127) (xy 249.189999 97.997203) (xy 249.189998 97.9972)
+				(xy 249.164416 97.92) (xy 249.134814 97.830666) (xy 249.042712 97.681344) (xy 248.949049 97.587681)
+				(xy 248.915564 97.526358) (xy 248.920548 97.456666) (xy 248.949049 97.412319) (xy 248.992202 97.369166)
+				(xy 249.042712 97.318656) (xy 249.048337 97.309534) (xy 249.05613 97.296903) (xy 249.108078 97.250178)
+				(xy 249.161668 97.238) (xy 250.766692 97.238)
 			)
 		)
 		(filled_polygon
