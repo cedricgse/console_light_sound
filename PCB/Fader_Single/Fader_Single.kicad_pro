@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|179817500|102500000|4b444ced-f8cd-4802-a605-b315308d715d|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -216,10 +218,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.6,
-          "drill": 0.3
         },
         {
           "diameter": 0.8,
@@ -432,7 +430,7 @@
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "ignore",
+      "lib_symbol_issues": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -455,10 +453,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Console"
+    ]
   },
   "meta": {
-    "filename": "Keyboard.kicad_pro",
+    "filename": "Fader_Single.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -494,17 +494,17 @@
       "idf": "",
       "netlist": "",
       "plot": "Gerber/",
-      "pos_files": "",
+      "pos_files": "output/",
       "specctra_dsn": "",
       "step": "",
-      "svg": "../../Case/",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 50,
-    "bom_export_filename": "",
+    "annotate_start_num": 0,
+    "bom_export_filename": "output/Fader_Single.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -563,18 +563,6 @@
         },
         {
           "group_by": false,
-          "label": "Sim.Device",
-          "name": "Sim.Device",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
@@ -627,12 +615,8 @@
   },
   "sheets": [
     [
-      "19832ffe-93ee-47b9-941d-487838a40bd9",
+      "92c61b4c-a34a-42ae-b84f-bcc6c9ec9663",
       "Root"
-    ],
-    [
-      "252853c4-c250-483a-9315-bebb763fe37e",
-      "Matrix"
     ]
   ],
   "text_variables": {}
